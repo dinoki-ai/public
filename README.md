@@ -42,7 +42,7 @@ Dinoki consistently introduces new tools, ensuring your experience remains fresh
 * **Chat Mode**: Standard conversational assistant for quick responses.
 * **Ollama Support**: Run your own local Large Language Model (LLM) for ultimate privacy and customization.
 
-## 🌟 Premium Version (\$49.99/year)
+## 🌟 Premium Version
 
 Upgrade to Dinoki Premium and unlock:
 
