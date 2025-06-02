@@ -4,7 +4,7 @@ Public releases for the Dinoki app.
 
 ## What is Dinoki?
 
-**Dinoki** is your charming and powerful desktop AI sidekick—designed specifically to transform your macOS experience. It’s more than just a delightful dinosaur companion roaming your screen; it's a capable assistant ready to boost productivity, automate tasks, and deliver insightful interactions, all from your desktop.
+**Dinoki** is your charming and powerful desktop AI sidekick—designed specifically to transform your macOS experience. It's more than just a delightful dinosaur companion roaming your screen; it's a capable assistant ready to boost productivity, automate tasks, and deliver insightful interactions, all from your desktop.
 
 Discover more at [dinoki.ai](https://dinoki.ai)
 
@@ -24,7 +24,7 @@ Let Dinoki autonomously manage tasks in the background. Agent Mode activates eve
 
 ## ⚙️ Premium Tools Suite
 
-Premium users enjoy exclusive access to Dinoki’s continually expanding collection of advanced tools designed to enhance your productivity and streamline workflows:
+Premium users enjoy exclusive access to Dinoki's continually expanding collection of advanced tools designed to enhance your productivity and streamline workflows:
 
 * 🌐 **WebSearchTool**: Perform quick, native web searches leveraging your local browser.
 * 🧭 **BrowserTool**: Browse and scrape web content effortlessly.
@@ -59,17 +59,22 @@ Transform your desktop into a dynamic, vibrant workspace powered by intelligent 
 
 Head over to the **Issues** tab and click "New issue". Use the **Bug report** template to give us everything we need to fix it.
 
-### Have a feature idea?
-
-We love hearing about new possibilities. Use the **Feature request** template to tell us what you have in mind.
-
 ### Just want to say something?
 
-Open a general issue or leave a note—we’d love to hear from you!
+Open a general issue or leave a note—we'd love to hear from you!
+
+## Share Your Ideas
+
+We're excited to hear your ideas for improving Dinoki!
+Have a feature idea? Post it in our [Discussions](https://github.com/dinoki-ai/public/discussions) under the "Ideas" category. We also have a **Feature request** template available if you prefer to create an issue.
+
+## Documentation
+
+* [Wiki](https://github.com/dinoki-ai/public/wiki): How-to guides and more.
 
 ## Download and Installation
 
-1. Visit the [Releases](https://github.com/tpae/dinoki-releases/releases) page.
+1. Visit the [Releases](https://github.com/dinoki-ai/public/releases) page.
 2. Download the latest `.dmg` file.
 3. Open the DMG file and drag Dinoki into your Applications folder.
 4. Launch Dinoki from Applications.
