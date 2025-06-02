@@ -1,0 +1,62 @@
+name: Bug Report
+description: File a bug report to help us improve Dinoki
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: A clear and concise description of what the bug is.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      description: Steps to reproduce the behavior.
+      placeholder: |
+        1. Go to '...'
+        2. Click on '....'
+        3. Scroll down to '....'
+        4. See error
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: A clear and concise description of what you expected to happen.
+    validations:
+      required: true
+  - type: input
+    id: dinoki-version
+    attributes:
+      label: Dinoki Version
+      description: What version of Dinoki are you running?
+      placeholder: e.g., 1.0.0
+    validations:
+      required: true
+  - type: input
+    id: macos-version
+    attributes:
+      label: macOS Version
+      description: What version of macOS are you running?
+      placeholder: e.g., 14.0 (Sonoma)
+    validations:
+      required: true
+  - type: input
+    id: hardware
+    attributes:
+      label: Hardware Information
+      description: Please provide information about your Mac hardware (optional).
+      placeholder: e.g., MacBook Pro M1, 16GB RAM
+    validations:
+      required: false
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Context
+      description: Add any other context about the problem here.
+    validations:
+      required: false
