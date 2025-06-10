@@ -3,13 +3,13 @@
     <channel>
         <title>Dinoki</title>
         <item>
-            <title>1.1.1</title>
-            <pubDate>Tue, 10 Jun 2025 01:31:15 +0000</pubDate>
+            <title>1.1.2</title>
+            <pubDate>Tue, 10 Jun 2025 16:12:06 +0000</pubDate>
             <sparkle:channel>release</sparkle:channel>
-            <sparkle:version>1.1.1</sparkle:version>
-            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:version>1.1.2</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dinoki-ai/public/releases/download/1.1.1/Dinoki-1.1.1.dmg" length="4731914" type="application/octet-stream" sparkle:edSignature="trv0PRCMBnv4C3AP3q7wCfhYgk7FgHaQl8CJvXYq1p0Gpjc5Idi9MbtawTygxvtymyso4dGkEBOLB1g0v0KnBQ=="/>
+            <enclosure url="https://github.com/dinoki-ai/public/releases/download/1.1.2/Dinoki-1.1.2.dmg" length="4748623" type="application/octet-stream" sparkle:edSignature="FmGK3BnNntp+aNKH4YB9pOr5+0YkiT1BZY22g5pPQi0DYnAzksvlxhGeTmH6UFfxgKGvNSHlCWF/yoTkjSr+Dw=="/>
         </item>
     </channel>
 </rss>
