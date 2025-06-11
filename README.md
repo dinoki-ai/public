@@ -33,6 +33,7 @@ Premium users enjoy exclusive access to Dinoki's continually expanding collectio
 - 🌐 **WebSearchTool**: Perform quick, native web searches leveraging your local browser.
 - 🧭 **BrowserTool**: Browse and scrape web content effortlessly.
 - 📁 **SaveFileTool**: Automate file generation and saving.
+- ⏰ **ReminderTool**: Create smart reminders and calendar events with natural language scheduling ("in 30 minutes", "tomorrow at 2pm").
 - 📈 **StocksTool**: Access real-time stock market data.
 - 💰 **CryptoTool**: Stay updated with the latest cryptocurrency trends.
 - ☀️ **WeatherTool**: Real-time weather information at your fingertips.
