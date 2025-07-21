@@ -3,22 +3,22 @@
   <channel>
     <title>Dinoki</title>
         <item>
-            <title>1.3.12</title>
-            <pubDate>Mon, 21 Jul 2025 20:40:49 +0000</pubDate>
+            <title>1.3.13</title>
+            <pubDate>Mon, 21 Jul 2025 21:22:32 +0000</pubDate>
             <sparkle:channel>release</sparkle:channel>
-            <sparkle:version>1.3.12</sparkle:version>
-            <sparkle:shortVersionString>1.3.12</sparkle:shortVersionString>
+            <sparkle:version>1.3.13</sparkle:version>
+            <sparkle:shortVersionString>1.3.13</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dinoki-ai/public/releases/download/1.3.12/Dinoki-1.3.12.dmg" length="6492577" type="application/octet-stream" sparkle:edSignature="wii5wjLEQaAr1lj5jV1Mm3gzYOlqeXJ4DpaxlIa4pD9v2+8MJ72CuJQc19KnCfaQwFHGJUJBDCn/6Lvy/LMDCw=="/>
+            <enclosure url="https://github.com/dinoki-ai/public/releases/download/1.3.13/Dinoki-1.3.13.dmg" length="6493144" type="application/octet-stream" sparkle:edSignature="bZRRGUIQtZmF4RdaEKBiqWm0qEK0XOYfF8LL6vhRSgZI0NPBrSowhggImFme0iXlXmmstKr5AH037kiHv1zZAg=="/>
         </item>
         <item>
-            <title>1.3.12</title>
-            <pubDate>Mon, 21 Jul 2025 20:40:50 +0000</pubDate>
+            <title>1.3.13</title>
+            <pubDate>Mon, 21 Jul 2025 21:22:33 +0000</pubDate>
             <sparkle:channel>release</sparkle:channel>
-            <sparkle:version>1.3.12</sparkle:version>
-            <sparkle:shortVersionString>1.3.12</sparkle:shortVersionString>
+            <sparkle:version>1.3.13</sparkle:version>
+            <sparkle:shortVersionString>1.3.13</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dinoki-ai/public/releases/download/1.3.12/Dinoki-1.3.12-x86_64.dmg" length="6785876" type="application/octet-stream" sparkle:edSignature="4u3ExLCJwXG7eNcHZbmNogU2GaLFkEaIIfnid4aMozGQ5R+2IbDZcpIZnyHmW/mKjCOkW/A+Azc55xfF3+qSBA=="/>
+            <enclosure url="https://github.com/dinoki-ai/public/releases/download/1.3.13/Dinoki-1.3.13-x86_64.dmg" length="6786848" type="application/octet-stream" sparkle:edSignature="OWaIsBRlTvBj8eaHs3PSrKqGHuS1+CFW9DyrTAQMu4+x6V9L+BsUTFpsagOhxn4sZeU8h3dk3TInZAwaxH6aCA=="/>
         </item>
   </channel>
 </rss>
